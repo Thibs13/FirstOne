@@ -1,0 +1,17 @@
+.texte{
+    border:black 2px solid;
+    width: 300px;
+    margin: auto;
+}
+.inv{
+    visibility: hidden;
+    position: absolute;
+}
+.box{
+    padding-top: 5px;
+    text-align: center;
+    margin: auto;
+}
+.img{
+    cursor: pointer;
+}
